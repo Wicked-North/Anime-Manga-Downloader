@@ -1,0 +1,21 @@
+{
+  "name": "anime-dl",
+  "version": "1.0.0",
+  "description": "Downloads anime from gogoanime.be",
+  "main": "animeDL.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "googleapis": "^39.2.0",
+    "image-downloader": "^4.0.2",
+    "log-symbols": "^5.0.0",
+    "network-speed": "^2.1.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagnik Das",
+  "license": "ISC"
+}
